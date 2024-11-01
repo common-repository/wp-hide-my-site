@@ -1,0 +1,115 @@
+.master{
+		margin: 0 auto;
+}
+.short{color: #666!important;
+border: 1px solid #ccc!important;
+border-radius: 3px!important;
+padding: 10px!important;
+width: 412px!important;
+text-align: center;
+}
+
+.fomr{
+float: left;
+width: 415px;
+font-size: 15px;
+padding: 30px;
+background: #eee;
+height: 380px;
+border-radius: 10px;
+}
+.preview{
+float: left;
+width: 40%;
+font-size: 15px;
+padding: 30px;
+margin-left: 60px;
+height: 380px;
+border-radius: 10px;
+text-align: center;
+border: 1px solid #eee;
+}
+.prev{
+float: left;
+margin-left: 440px;
+}
+.opt{
+	float: left;
+}
+.donate {
+float: left;
+margin-top: 45px;
+width: 440px;
+font-size: 12px;
+}
+
+.descp1{
+margin-left: 2px;
+font-size: 14px;
+}
+.upload{
+display: inline-block;
+width: 115px;
+margin: 0;
+margin-left: -7px;
+padding: 13px;
+border: 0;
+height: 39px;
+border-radius: 0px 4px 4px 0px;
+color: #333;
+font-size: 14px;
+background: #ccc;
+}
+.save{
+background: #ccc;
+display: inline-block;
+width: 115px;
+margin: 0;
+float: right;
+padding: 13px;
+border: 0;
+height: 40px;
+border-radius: 4px;
+color: #333;
+font-size: 14px;
+}
+
+.save:hover{
+opacity: 0.8;
+
+}
+.upload:hover{
+	opacity: 0.8;
+}
+.thumb{
+width: 100px;
+margin-top: 110px;
+}
+
+.titulo{
+float: left;
+width: 100%;
+margin-top:20px; 
+}
+
+.paypal{
+	width: 220px;
+float: left;
+}
+/* old  */
+@media screen and (max-width: 1024px) {
+.preview {
+float: left;
+width: 34%;
+font-size: 15px;
+padding: 30px;
+margin-left: 10px;
+height: 380px;
+border-radius: 10px;
+text-align: center;
+border: 1px solid #eee;
+}
+}
+
+
+
